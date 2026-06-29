@@ -1,0 +1,26 @@
+*{
+
+    background-color: white;
+}
+
+div{
+    text-align: none;
+  
+    color: rgb(69, 181, 233);
+    
+}
+
+
+.name{
+    color: navy;
+    font-size:60px;
+}
+
+button{
+    background-color: rgb(226, 226, 53);
+}
+
+
+h1{
+    color:brown;
+}
